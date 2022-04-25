@@ -9,6 +9,10 @@ Projet en collaboration avec :
 
 Pour des infos plus complètes, lire le [rapport de projet.](Ress/pdf/rapport.pdf)
 
+Le gestionnaire de version utilisé est Perforce avec l'UQAC. Nous ne pouvons pas partager le code source mais uniquement la build, cf fin du Readme. 
+
+Ce github sert de présentation générale pour le concept. Les documents en liens permettent une approche plus structurée. La description est volontairement épurée pour éviter de surcharger ce fichier et le rendre peu lisible.
+
 # Objectif 
 
 “Psy Hunt” est un jeu d’infiltration composé de plusieurs niveaux qu’il faudra compléter afin d’avancer dans l’histoire. La condition de complétion des niveaux sera bien souvent de s’enfuir d’un certain endroit : bâtiments en ruine, complexe abandonné, toits de gratte-ciel, etc… Notre jeu met l’emphase sur l’utilisation de pouvoirs psychiques, dédiés à l’infiltration, et non au combat, afin d’inciter le joueur à passer le plus possible de son temps à éviter les ennemis au lieu de les confronter directement.
