@@ -9,6 +9,10 @@ Projet en collaboration avec :
 
 Pour des infos plus complètes, lire le [rapport de projet.](Ress/pdf/rapport.pdf)
 
+Le gestionnaire de version utilisé est Perforce avec l'UQAC. Nous ne pouvons pas partager le code source mais uniquement la build, cf fin du Readme. 
+
+Ce github sert de présentation générale pour le concept. Les documents en liens permettent une approche plus structurée. La description est volontairement épurée pour éviter de surcharger ce fichier et le rendre peu lisible.
+
 # Sommaire
 - [PsyHunt](#psyhunt)
 - [Sommaire](#sommaire)
