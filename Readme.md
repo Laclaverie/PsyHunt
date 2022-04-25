@@ -9,6 +9,14 @@ Projet en collaboration avec :
 
 Pour des infos plus complètes, lire le [rapport de projet.](Ress/pdf/rapport.pdf)
 
+# Sommaire
+- [PsyHunt](#psyhunt)
+- [Sommaire](#sommaire)
+- [Objectif](#objectif)
+- [Rendu](#rendu)
+  - [Menu](#menu)
+  - [ingame](#ingame)
+
 # Objectif 
 
 “Psy Hunt” est un jeu d’infiltration composé de plusieurs niveaux qu’il faudra compléter afin d’avancer dans l’histoire. La condition de complétion des niveaux sera bien souvent de s’enfuir d’un certain endroit : bâtiments en ruine, complexe abandonné, toits de gratte-ciel, etc… Notre jeu met l’emphase sur l’utilisation de pouvoirs psychiques, dédiés à l’infiltration, et non au combat, afin d’inciter le joueur à passer le plus possible de son temps à éviter les ennemis au lieu de les confronter directement.
